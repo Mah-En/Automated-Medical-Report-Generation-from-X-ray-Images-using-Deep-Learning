@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  31 MAY 2025 02:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  31 MAY 2025 02:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -418,26 +418,6 @@ Package hyperref Info: Link coloring OFF on input line 18.
 
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
-LaTeX Warning: Reference `sec:methodology' on page 2 undefined on input line 41
-.
-
-
-LaTeX Warning: Reference `sec:implementation' on page 2 undefined on input line
- 41.
-
-
-LaTeX Warning: Reference `sec:experimentation' on page 2 undefined on input lin
-e 41.
-
-
-LaTeX Warning: Reference `sec:results' on page 2 undefined on input line 41.
-
-
-LaTeX Warning: Reference `sec:conclusion' on page 2 undefined on input line 41.
-
-
-
-
 [2
 
 ]
@@ -493,7 +473,7 @@ Overfull \hbox (108.95659pt too wide) in paragraph at lines 275--276
 de-rived from \OT1/cmtt/m/n/12 text[]tokenizer.decode(input[]ids[0],
  []
 
-<output.png, id=136, 281.1303pt x 297.0297pt>
+<output.png, id=200, 281.1303pt x 297.0297pt>
 File: output.png Graphic file (type png)
 <use output.png>
 Package pdftex.def Info: output.png  used on input line 283.
@@ -543,13 +523,14 @@ e
 
 
 [10 <./output.png>]
-
-[11]
 Overfull \hbox (0.57912pt too wide) in paragraph at lines 312--313
 \OT1/cmr/m/n/12 vari-ants like GPT-3, or domain-specific med-i-cal NLP mod-els 
 like BioBERT
  []
 
+
+
+[11]
 No file Report.bbl.
 
 ./Report.tex:325: LaTeX Error: \begin{itemize} on input line 125 ended by \end{
@@ -570,31 +551,18 @@ OK, entering \scrollmode...
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `Report.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Report.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  05C7F2F538E1A600BC1C1AB46080B439;3267.
+Package rerunfilecheck Info: File `Report.out' has not changed.
+(rerunfilecheck)             Checksum: 05C7F2F538E1A600BC1C1AB46080B439;3267.
  )
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 125 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 11816 strings out of 473190
- 177680 string characters out of 5715801
- 716126 words of memory out of 5000000
- 34849 multiletter control sequences out of 15000+600000
+ 11836 strings out of 473190
+ 177966 string characters out of 5715801
+ 716465 words of memory out of 5000000
+ 34869 multiletter control sequences out of 15000+600000
  563736 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,7n,79p,1195b,1970s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -608,10 +576,10 @@ r17.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
 2.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12
 .pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.p
 fb>
-Output written on Report.pdf (12 pages, 348825 bytes).
+Output written on Report.pdf (12 pages, 350598 bytes).
 PDF statistics:
- 224 PDF objects out of 1000 (max. 8388607)
- 188 compressed objects within 2 object streams
+ 288 PDF objects out of 1000 (max. 8388607)
+ 251 compressed objects within 3 object streams
  107 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 158 words of extra memory for PDF output out of 10000 (max. 10000000)
 
